@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 ---
  
-  ![Snake animation](https://github.com/hieunm-05624/hieunm-05624/blob/output/github-contribution-grid-snake.svg)
-  
+  <!-- ![Snake animation](https://github.com/hieunm-05624/hieunm-05624/blob/output/github-contribution-grid-snake.svg)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hieunm-05624/hieunm-05624/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hieunm-05624/hieunm-05624/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/hieunm-05624/hieunm-05624/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</picture>
+
 ---
