@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h2>Skills </h2>
  <a href="https://github.com/hieunm-05624/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hieunm-05624&layout=compact&&theme=aura&hide_border=true" /></a> 
 
----
+
 ## **Top technologies**
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
