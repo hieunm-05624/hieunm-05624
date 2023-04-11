@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
 ---
+ 
+  ![Snake animation](https://github.com/hieunm-05624/hieunm-05624/blob/output/github-contribution-grid-snake.svg)
+  
+---
